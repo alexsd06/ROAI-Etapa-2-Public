@@ -1,0 +1,34 @@
+Etapa 1: Machine Learning si putin Deep Learning.
+Etapa 2 (probabil): ML, Natural Language Processing si Computer Vision
+
+Proba 1: 
+E voie internet
+Sa avem un laptop sa fim siguri, (Google Colab)
+Fara ChatGPT.
+Pot veni cu propria tastatura.
+
+Proba 2:
+Laptop Personal
+ChatGPT!!!
+Computer Vison, NLP, (Transformers?)
+
+
+Work in progress:
+
+
+DONE: 
+PyML
+Nitro NLP: Intro to Machine Learning
+Nitro NLP: Introduction to Deep Learning
+Nitro NLP: Natural Language Processing
+#Jumping over: Nitro NLP: Python & Data Visualization
+# Watch later: Nitro NLP: Artificial Intelligence and Us
+Nitro NLP: Transfer Learning & Transformers
+https://www.youtube.com/watch?v=9L9jEOwRrCg&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=17&pp=iAQB
+#Jumping over episode 18
+https://huggingface.co/learn/nlp-course/chapter8/1
+
+Probably done:
+Learn PyTorch and sklearn, and do it FAST!
+https://www.youtube.com/watch?v=9nEh-OXVaNI
+https://www.youtube.com/watch?v=IC0_FRiX-sw&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=1

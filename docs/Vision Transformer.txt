@@ -1,0 +1,2 @@
+https://github.com/lucidrains/vit-pytorch/blob/main/vit_pytorch/vit.py
+https://github.com/NielsRogge/Transformers-Tutorials/blob/master/DINO/Visualize_self_attention_of_DINO.ipynb

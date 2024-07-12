@@ -1,0 +1,5 @@
+https://colab.research.google.com/drive/198e5PpG47s7hF_nUe61UGZSbQNX9TDl6?usp=sharing
+https://colab.research.google.com/drive/1YhI81JG-Qi-9U17R3Lp36iNAJOpU65zp?usp=sharing
+
+
+http://projector.tensorflow.org/
